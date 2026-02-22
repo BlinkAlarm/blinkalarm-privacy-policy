@@ -36,6 +36,23 @@ However, it may collect **approximate device location**, which is used solely fo
 
 Non identifiable device information may be collected to enhance service quality and prevent fraudulent activities. This information cannot identify individual users.
 
+### Friend Bells Feature - Call and SMS Data
+
+The Friend Bells feature helps you maintain relationships by tracking when you last contacted people in your groups. To provide timely reminders, the Application may access:
+
+- Call log timestamps and phone numbers
+- SMS message timestamps and phone numbers
+
+The Application does **not** read message content, call recordings, or any other personal communication data.
+
+All contact data is processed **locally on your device**. Only "last contacted" timestamps are stored and used exclusively for reminder functionality. This data is:
+
+- **Not** used for advertising or analytics
+- **Not** shared with third parties
+- **Not** transmitted outside your device
+
+**Permission Control:** You may deny call and SMS permissions. Friend Bells will continue to function, but automatic contact history detection will be unavailable. You can manually mark contacts as "contacted" instead.
+
 ### Cookies
 
 The Application does not explicitly use cookies.  
